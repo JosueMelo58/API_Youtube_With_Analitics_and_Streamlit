@@ -165,3 +165,72 @@ Clone o repositório | Clone the repository:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
+```
+
+## ⚠️ Tratamento de erros | Error Handling
+
+### Português
+
+O projeto possui tratamento básico para:
+
+- erro na requisição HTTP
+- canal não encontrado
+- informações do canal não encontradas
+
+### English
+
+The project includes basic handling for:
+
+- HTTP request errors
+- channel not found
+- channel information not found
+
+---
+
+## 🔮 Melhorias futuras | Future Improvements
+
+### Português
+
+Algumas melhorias que podem ser implementadas:
+
+- Buscar vídeos do canal
+- Exibir playlists
+- Mostrar a lista de vídeos com suas informações, para análises mais profundas
+- Permitir exportação dos dados em CSV
+- Melhorar a validação de entrada
+- Criar uma interface mais elaborada
+
+### English
+
+Some possible future improvements:
+
+- Fetch channel videos
+- Display playlists
+- Show de list of videos with their information, for deeper analysis
+- Allow CSV export
+- Improve input validation
+- Create a more advanced interface
+
+---
+
+## 📚 Aprendizados com o projeto | What I Learned from This Project
+
+### Português
+
+Este projeto é uma boa prática para aprender:
+
+- consumo de APIs REST
+- uso de variáveis de ambiente
+- manipulação de JSON
+- criação de interfaces com Streamlit
+- organização de funções em Python
+
+### English
+
+This project is a great way to practice:
+
+- consuming REST APIs
+- using environment variables
+- handling JSON data
+- building interfaces with Streamlit
+- organizing functions in Python
